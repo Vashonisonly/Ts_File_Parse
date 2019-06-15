@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+   <FileVersion major="1" minor="6" />
+   <Project>
+      <Option title="TS_Parse_master" />
+      <Option makefile_is_custom="1" />
+      <Option compiler="gcc" />
+      <Option virtualFolders="CMake Files\;" />
+      <Build>
+      <Target title="all">
+         <Option working_dir="/home/letv/programs/ClionPrograms/TS_Parse-master/cmake-build-debug" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/letv/programs/ClionPrograms/TS_Parse-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 all" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/letv/programs/ClionPrograms/TS_Parse-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/letv/programs/ClionPrograms/TS_Parse-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/letv/programs/ClionPrograms/TS_Parse-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="TS_Parse_master">
+         <Option output="/home/letv/programs/ClionPrograms/TS_Parse-master/cmake-build-debug/TS_Parse_master" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/letv/programs/ClionPrograms/TS_Parse-master/cmake-build-debug" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/letv/programs/ClionPrograms/TS_Parse-master/include" />
+            <Add directory="/home/letv/programs/ClionPrograms/TS_Parse-master/src" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/4.8" />
+            <Add directory="/usr/include/c++/4.8/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/4.8" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/letv/programs/ClionPrograms/TS_Parse-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 TS_Parse_master" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/letv/programs/ClionPrograms/TS_Parse-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/letv/programs/ClionPrograms/TS_Parse-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/letv/programs/ClionPrograms/TS_Parse-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="TS_Parse_master/fast">
+         <Option output="/home/letv/programs/ClionPrograms/TS_Parse-master/cmake-build-debug/TS_Parse_master" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/letv/programs/ClionPrograms/TS_Parse-master/cmake-build-debug" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/letv/programs/ClionPrograms/TS_Parse-master/include" />
+            <Add directory="/home/letv/programs/ClionPrograms/TS_Parse-master/src" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/4.8" />
+            <Add directory="/usr/include/c++/4.8/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/4.8" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/letv/programs/ClionPrograms/TS_Parse-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 TS_Parse_master/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/letv/programs/ClionPrograms/TS_Parse-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/letv/programs/ClionPrograms/TS_Parse-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/letv/programs/ClionPrograms/TS_Parse-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="rebuild_cache">
+         <Option working_dir="/home/letv/programs/ClionPrograms/TS_Parse-master/cmake-build-debug" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/letv/programs/ClionPrograms/TS_Parse-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/letv/programs/ClionPrograms/TS_Parse-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/letv/programs/ClionPrograms/TS_Parse-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/letv/programs/ClionPrograms/TS_Parse-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      </Build>
+      <Unit filename="/home/letv/programs/ClionPrograms/TS_Parse-master/src/FileSave.cpp">
+      </Unit>
+      <Unit filename="/home/letv/programs/ClionPrograms/TS_Parse-master/src/PacketInfo.cpp">
+      </Unit>
+      <Unit filename="/home/letv/programs/ClionPrograms/TS_Parse-master/src/PacketLength.cpp">
+      </Unit>
+      <Unit filename="/home/letv/programs/ClionPrograms/TS_Parse-master/src/analysis.cpp">
+      </Unit>
+      <Unit filename="/home/letv/programs/ClionPrograms/TS_Parse-master/src/pat.cpp">
+      </Unit>
+      <Unit filename="/home/letv/programs/ClionPrograms/TS_Parse-master/src/pes.cpp">
+      </Unit>
+      <Unit filename="/home/letv/programs/ClionPrograms/TS_Parse-master/src/pmt.cpp">
+      </Unit>
+      <Unit filename="/home/letv/programs/ClionPrograms/TS_Parse-master/src/section.cpp">
+      </Unit>
+      <Unit filename="/home/letv/programs/ClionPrograms/TS_Parse-master/src/ts_parse.cpp">
+      </Unit>
+      <Unit filename="/home/letv/programs/ClionPrograms/TS_Parse-master/src/tsheader.cpp">
+      </Unit>
+      <Unit filename="/home/letv/programs/ClionPrograms/TS_Parse-master/include/FileSava.h">
+      </Unit>
+      <Unit filename="/home/letv/programs/ClionPrograms/TS_Parse-master/include/PacketInfo.h">
+      </Unit>
+      <Unit filename="/home/letv/programs/ClionPrograms/TS_Parse-master/include/PacketLength.h">
+      </Unit>
+      <Unit filename="/home/letv/programs/ClionPrograms/TS_Parse-master/include/analysis.h">
+      </Unit>
+      <Unit filename="/home/letv/programs/ClionPrograms/TS_Parse-master/include/pat.h">
+      </Unit>
+      <Unit filename="/home/letv/programs/ClionPrograms/TS_Parse-master/include/pes.h">
+      </Unit>
+      <Unit filename="/home/letv/programs/ClionPrograms/TS_Parse-master/include/pmt.h">
+      </Unit>
+      <Unit filename="/home/letv/programs/ClionPrograms/TS_Parse-master/include/section.h">
+      </Unit>
+      <Unit filename="/home/letv/programs/ClionPrograms/TS_Parse-master/include/tsheader.h">
+      </Unit>
+      <Unit filename="/home/letv/programs/ClionPrograms/TS_Parse-master/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+   </Project>
+</CodeBlocks_project_file>

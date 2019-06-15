@@ -1,0 +1,1 @@
+/home/letv/programs/ClionPrograms/TS_Parse-master/cmake-build-debug/CMakeFiles/TS_Parse_master.dir
